@@ -1,0 +1,11 @@
+C:\Users\Neil Michaels\source\repos\genericsExample\bin\Debug\netcoreapp3.1\genericsExample.exe
+C:\Users\Neil Michaels\source\repos\genericsExample\bin\Debug\netcoreapp3.1\genericsExample.deps.json
+C:\Users\Neil Michaels\source\repos\genericsExample\bin\Debug\netcoreapp3.1\genericsExample.runtimeconfig.json
+C:\Users\Neil Michaels\source\repos\genericsExample\bin\Debug\netcoreapp3.1\genericsExample.runtimeconfig.dev.json
+C:\Users\Neil Michaels\source\repos\genericsExample\bin\Debug\netcoreapp3.1\genericsExample.dll
+C:\Users\Neil Michaels\source\repos\genericsExample\bin\Debug\netcoreapp3.1\genericsExample.pdb
+C:\Users\Neil Michaels\source\repos\genericsExample\obj\Debug\netcoreapp3.1\genericsExample.AssemblyInfoInputs.cache
+C:\Users\Neil Michaels\source\repos\genericsExample\obj\Debug\netcoreapp3.1\genericsExample.AssemblyInfo.cs
+C:\Users\Neil Michaels\source\repos\genericsExample\obj\Debug\netcoreapp3.1\genericsExample.dll
+C:\Users\Neil Michaels\source\repos\genericsExample\obj\Debug\netcoreapp3.1\genericsExample.pdb
+C:\Users\Neil Michaels\source\repos\genericsExample\obj\Debug\netcoreapp3.1\genericsExample.csprojAssemblyReference.cache
